@@ -1,6 +1,6 @@
 ## Predict the Road Sign
 
-### [Problem Statement](https://www.hackerearth.com/problem/machine-learning/predict-the-road-sign-1/)
+### [Problem Statement](https://www.hackerearth.com/problem/machine-learning/predict-the-road-sign-1/?target=_blank)
 
 Building digital maps is challenging, and maintaining it up to date in an ever-changing world is even more challenging. Various machine learning techniques helps us to detect road signs and changes in real world, and process it to update maps.
 
@@ -16,7 +16,7 @@ Dataset provided here has details on camera sign was detected, Angle of sign wit
 
 Goal here is to predict where the sign is actually facing with respect to the vehicle, given above set of inputs.
 
-[Dataset](https://github.com/harmanpreet93/predict-road-sign/tree/master/dataset) 
+[Dataset](https://github.com/harmanpreet93/predict-road-sign/tree/master/dataset/?target=_blank) 
   
   
 ### Data Information
@@ -32,7 +32,7 @@ SignAspectRatio |	this is the width/height ratio of the sign bounding box, deriv
 SignFacing (Target)	| For the above inputs, where the sign is actually facing is captured here, from manually reviewed sign facing records
 
 
-### [Submission](https://github.com/harmanpreet93/predict-road-sign/tree/master/submission)
+### [Submission](https://github.com/harmanpreet93/predict-road-sign/tree/master/submission/?target=_blank)
 
 csv file with the Id and target class probabilities.
 
